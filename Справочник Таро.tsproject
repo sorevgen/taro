@@ -1,0 +1,26 @@
+﻿[project]
+type=TurboSite 1.7 project
+olddir=C:\Users\user\Documents\Справочник Таро\
+themedirname=Fresh Scent
+Extension=html
+pagecount=0
+blockcount=0
+cp1251=1
+SiteTitle=Справочник таролога
+
+[FTP]
+Dir=/
+Passive=1
+NoDeleteFiles=1
+
+[pages]
+index=Главная
+
+[mainmenu]
+index=1
+
+[keys]
+Подзаголовок=
+Заголовок-списка-страниц=Страницы
+Подвал=Таролог Евгения
+
